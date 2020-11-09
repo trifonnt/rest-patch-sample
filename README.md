@@ -1,6 +1,6 @@
 # RESTful service sample with HTTP PATCH
 
-The intention of this project is to experiment with [RFC7386 (JSONMerge Patch)](http://tools.ietf.org/html/rfc7386) and [RFC 6902 (JSON Patch)](http://tools.ietf.org/html/rfc6902) implementations. 
+The intention of this project is to experiment with [RFC7386 (JSON Merge Patch)](http://tools.ietf.org/html/rfc7386) and [RFC 6902 (JSON Patch)](http://tools.ietf.org/html/rfc6902) implementations. 
 None of the implemented variants are meant to be best or good practices. 
 
 ## Run tests
